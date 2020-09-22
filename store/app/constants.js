@@ -1,0 +1,1 @@
+export const CHANGE_HOME_ARTICLES = 'change_home_articles'
